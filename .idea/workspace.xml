@@ -12,20 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2daa9845-abe0-4245-bad7-dd881cc9ff3a" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/Clion配置Makefile.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/img/image-20220314224600869.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/img/image-20220314224958549.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/img/image-20220314225015414.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/img/image-20220314225156768.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/img/image-20220314230014461.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/img/image-20220314230251981.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/img/image-20220314230935888.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/img/image-20220314231151491.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/img/image-20220314231407470.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/img/image-20220314231549315.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statics/img/image-20220314232823272.png" beforeDir="false" />
-    </list>
+    <list default="true" id="2daa9845-abe0-4245-bad7-dd881cc9ff3a" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +72,11 @@
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
